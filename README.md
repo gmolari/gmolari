@@ -1,4 +1,4 @@
-### Hi, guys, I'm Guilherme, with nickname ghm
+### Hi guys, I'm Guilherme, with nickname ghm
 
 <!--
 **ghhmm/ghhmm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
