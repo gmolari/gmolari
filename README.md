@@ -1,6 +1,3 @@
-Sure, let's dial down the creativity just a bit while keeping things light-hearted:
-
-```markdown
 # Hello, I'm Gmolari! 👋
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gmolari&show_icons=true&theme=synthwave)
@@ -35,8 +32,3 @@ Sure, let's dial down the creativity just a bit while keeping things light-heart
 - I once turned a bug into a feature... and the users loved it!
 - My favorite spell is `console.log()`. It reveals the secrets of the code realm.
 - My coding style is like a choose-your-own-adventure book. You never know where the bugs will take you.
-
-In the world of coding, a dash of humor and a sprinkle of determination go a long way! 🚀💻😄
-```
-
-Feel free to adjust anything to your liking or let me know if you have any specific changes in mind! 😄👍
