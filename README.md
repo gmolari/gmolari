@@ -1,34 +1,83 @@
-# Hello, I'm Gmolari! 👋
+<div class="Tittle" align=center>
+    <br clear="both">
+    <h1> Hello, i'm Leonardo Gotardo (19y).</h1>
+</div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gmolari&show_icons=true&theme=synthwave)
+<div id="resume" align=center>
+    <br clear="both">
+    <p>Hi there, welcome to my github! I'm a brazillian dev and am trying to become a fullstack dev, but for now i just want to make a better world coding.<br>(cuz i really love this)<br>✓ = working!</p>
+</div>
 
-### About Me
+#
 
-- 🧙‍♂️ Proficient in **JavaScript** (Advanced) - I speak fluent browser.
-- ☕ Comfortable with **Java** (Intermediary) - Coffee + code = happiness.
-- 🐍 Learning **Python** (Basic) - I can write Pythonic code, but don't ask me to talk to snakes.
-- 🎮 Game development with **GML** (Intermediary) - Making games that are more fun than debugging.
-- 💻 Exploring **C#** (Basic) - Slowly but surely conquering the desktop.
-- ⚛️ **ReactJS** aficionado (Advanced) - Building UIs that dazzle.
-- 🚀 Navigating the cosmos of **Node.js** (Advanced) - Crafting robust backends.
-- 📊 Basic knowledge of **MySQL** - I can handle the basics of data sorcery.
-- 💡 Aspiring **Full-Stack Developer** - Bridging the gap between front-end and back-end.
+<div class ="RORO" align="center">
+    <img height="200" src="https://media.tenor.com/zqABGVPLS-UAAAAC/shescool.gif"  />
+</div>
 
-### Current Spells in Progress 🧙‍♂️
+#
 
-- 🔭 Brewing up web projects with **React** and **Node.js**. Stay tuned for the magic!
-- 🌱 Learning the art of **MySQL** spellcasting for database wizardry.
-- 🤝 Open to collaborating on open-source spells and incantations.
-- 💬 Feel free to ask me anything about code or share your own coding adventures!
+<div class="Technologies" align=center>
+    <br clear="both">
+    <h3>Technologies:</h3>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" height="30" alt="lua logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="30" alt="markdown logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+</div>
 
-### Let's Connect 🌐
+#
 
-- 📫 Drop me a message on [LinkedIn](https://www.linkedin.com/in/guilherme-molari-5203a8236/)!
-- 🧙‍♂️ Follow me here on GitHub for updates on my coding adventures.
-- 📜 My code is like a book of spells. Explore it, learn from it, and maybe even add your own enchantments!
+<div class="SocialMidias" align=center>
+    <br clear="both">
+    <h3>Social Midias:</h3>
+    <br clear="both">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="48" height="28" alt="twitch logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="48" height="28" alt="discord logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="48" height="28" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" height="28" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="48" height="28" alt="stackoverflow logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="48" height="28" alt="telegram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="48" height="28" alt="whatsapp logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="48" height="28" alt="tryhackme logo"  />
+</div>
 
-### Fun Coding Factoids 🤓
+#
 
-- I once turned a bug into a feature... and the users loved it!
-- My favorite spell is `console.log()`. It reveals the secrets of the code realm.
-- My coding style is like a choose-your-own-adventure book. You never know where the bugs will take you.
+<div class="statusitle" align=center>
+    <br clear="both">
+    <h3>Statistcs:</h3>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=LeoGotardo.LeoGotardo&left_color=black&right_color=rebeccapurple&left_text=Visitors:" alt="Views"/>
+    <br clear="both">
+</div>
+
+<div class="status" align=center>
+    <br clear=both>
+    <img src="https://github-readme-stats.vercel.app/api?username=LeoGotardo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true&custom_title=GitHub Status" height="150" alt="stats graph" />
+    <img src="https://streak-stats.demolab.com?user=LeoGotardo&locale=en&mode=daily&theme=midnight-purple&hide_border=true&border_radius=5&date_format=j M[ Y]" height="150" alt="streak graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeoGotardo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=midnight-purple&hide_border=true&custom_title=Most Used" height="150" alt="languages graph" />
+</div>
