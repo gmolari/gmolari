@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="52" viewBox="0 0 840 52" shape-rendering="crispEdges" role="img" aria-label="SKILL TREE">
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffe7a3"/><stop offset="1" stop-color="#a86f00"/></linearGradient>
+    <pattern id="rule" width="8" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="2" fill="#b3c9bf"/><rect x="4" y="2" width="4" height="2" fill="#b3c9bf"/></pattern>
+  </defs>
+  <rect x="3" y="3" width="40" height="40" rx="7" fill="url(#gold)" stroke="#fff3c4" stroke-width="3"/>
+  <rect x="1" y="1" width="44" height="44" rx="9" fill="none" stroke="#fbfbf6" stroke-width="2"/>
+  <path d="M25 9h3v3h-3zM28 9h3v3h-3zM31 9h3v3h-3zM22 12h3v3h-3zM25 12h3v3h-3zM28 12h3v3h-3zM19 15h3v3h-3zM22 15h3v3h-3zM25 15h3v3h-3zM16 18h3v3h-3zM19 18h3v3h-3zM22 18h3v3h-3zM25 18h3v3h-3zM28 18h3v3h-3zM31 18h3v3h-3zM25 21h3v3h-3zM28 21h3v3h-3zM22 24h3v3h-3zM25 24h3v3h-3zM19 27h3v3h-3zM22 27h3v3h-3zM16 30h3v3h-3zM19 30h3v3h-3zM13 33h3v3h-3z" fill="#3a2400"/><path d="" fill="#8a5a08"/>
+  <path d="M59 13h12v3h-12zM56 16h3v3h-3zM56 19h3v3h-3zM59 22h9v3h-9zM68 25h3v3h-3zM68 28h3v3h-3zM56 31h12v3h-12zM74 13h3v3h-3zM86 13h3v3h-3zM74 16h3v3h-3zM83 16h3v3h-3zM74 19h3v3h-3zM80 19h3v3h-3zM74 22h6v3h-6zM74 25h3v3h-3zM80 25h3v3h-3zM74 28h3v3h-3zM83 28h3v3h-3zM74 31h3v3h-3zM86 31h3v3h-3zM92 13h15v3h-15zM98 16h3v3h-3zM98 19h3v3h-3zM98 22h3v3h-3zM98 25h3v3h-3zM98 28h3v3h-3zM92 31h15v3h-15zM110 13h3v3h-3zM110 16h3v3h-3zM110 19h3v3h-3zM110 22h3v3h-3zM110 25h3v3h-3zM110 28h3v3h-3zM110 31h15v3h-15zM128 13h3v3h-3zM128 16h3v3h-3zM128 19h3v3h-3zM128 22h3v3h-3zM128 25h3v3h-3zM128 28h3v3h-3zM128 31h15v3h-15zM164 13h15v3h-15zM170 16h3v3h-3zM170 19h3v3h-3zM170 22h3v3h-3zM170 25h3v3h-3zM170 28h3v3h-3zM170 31h3v3h-3zM182 13h12v3h-12zM182 16h3v3h-3zM194 16h3v3h-3zM182 19h3v3h-3zM194 19h3v3h-3zM182 22h12v3h-12zM182 25h3v3h-3zM188 25h3v3h-3zM182 28h3v3h-3zM191 28h3v3h-3zM182 31h3v3h-3zM194 31h3v3h-3zM200 13h15v3h-15zM200 16h3v3h-3zM200 19h3v3h-3zM200 22h12v3h-12zM200 25h3v3h-3zM200 28h3v3h-3zM200 31h15v3h-15zM218 13h15v3h-15zM218 16h3v3h-3zM218 19h3v3h-3zM218 22h12v3h-12zM218 25h3v3h-3zM218 28h3v3h-3zM218 31h15v3h-15z" fill="#a86f00" />
+  <rect x="251" y="21" width="585" height="4" fill="url(#rule)"/>
+</svg>
