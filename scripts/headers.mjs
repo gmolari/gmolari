@@ -17,9 +17,7 @@ const GLYPH = {
 const HEADERS = [
   ["character", "shield", "CHARACTER SHEET"],
   ["skills", "bolt", "SKILL TREE"],
-  ["quests", "scroll", "QUEST LOG · WORK EXPERIENCE"],
   ["inventory", "bag", "INVENTORY · PROJECTS"],
-  ["party", "mail", "JOIN THE PARTY"],
 ];
 
 const W = 840;
