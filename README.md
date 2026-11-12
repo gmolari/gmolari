@@ -122,7 +122,7 @@ I build products end to end: web apps, APIs, back offices and mobile apps, from 
   </tr>
 </table>
 
-<p align="center"><sub>Full details, stacks and the playable character sheet at <a href="https://gmolari.vercel.app">gmolari.vercel.app</a>.</sub></p>
+<p align="center"><sub>Full details, stacks and the playable character sheet at <a href="https://gmolari.vercel.app">gmolari.vercel.app</a> · source code in <a href="https://github.com/gmolari/gmolari-portfolio">gmolari-portfolio</a>.</sub></p>
 
 <br>
 
