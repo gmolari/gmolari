@@ -103,6 +103,7 @@ function card(t, mode) {
   <rect x="424" y="34" width="2" height="230" fill="${t.edge}"/>
   ${rowSvg}
   ${langSvg}
+  ${pixelText("+ COMPANY WORK IN PRIVATE REPOS IS NOT COUNTED HERE", { x: 40, y: H - 30, s: 1.5, fill: t.accent, extra: 'opacity="0.9"' })}
   ${pixelText(`UPDATED ${new Date().toISOString().slice(0, 10)}`, { x: W - 40, y: H - 30, s: 1.5, fill: t.muted, align: "end", extra: 'opacity="0.8"' })}
 </svg>
 `;
