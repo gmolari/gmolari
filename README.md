@@ -47,15 +47,17 @@ Full stack engineer from Londrina, Brazil. I build web apps, back offices and mo
 </picture>
 
 <p align="center">
-  <a href="https://gmolari.vercel.app/en"><img src="assets/projects/gamification-loop.svg" width="64" alt="Gamification Loop" title="Gamification Loop"></a>
-  <a href="https://gmolari.vercel.app/en"><img src="assets/projects/gamification-bko.svg" width="64" alt="Gamification Back Office" title="Gamification Back Office"></a>
-  <a href="https://gmolari.vercel.app/en"><img src="assets/projects/pgx-ui.svg" width="64" alt="PGX UI" title="PGX UI"></a>
-  <a href="https://gmolari.vercel.app/en"><img src="assets/projects/game-lab.svg" width="64" alt="Ad Monetization Engine" title="Ad Monetization Engine"></a>
-  <a href="https://gmolari.vercel.app/en"><img src="assets/projects/supernova-bet.svg" width="64" alt="Supernova Bet" title="Supernova Bet"></a>
-  <a href="https://gmolari.vercel.app/en"><img src="assets/projects/sweepstakes.svg" width="64" alt="Sweepstakes" title="Sweepstakes"></a>
-  <a href="https://github.com/gmolari/vortexvolley"><img src="assets/projects/vortexvolley.svg" width="64" alt="VortexVolley" title="VortexVolley"></a>
-  <a href="https://github.com/gmolari/lp-bigette-fotos-e-videos"><img src="assets/projects/bigette.svg" width="64" alt="Bigette Fotos e Vídeos" title="Bigette Fotos e Vídeos"></a>
-  <a href="https://gmolari.vercel.app/en"><img src="assets/projects/citybuilder.svg" width="64" alt="CityBuilder" title="CityBuilder"></a>
+  <a href="https://gmolari.vercel.app/en"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/items/gamification-loop-dark.svg"><img src="assets/items/gamification-loop-light.svg" width="200" alt="Gamification Loop"></picture></a>
+  <a href="https://gmolari.vercel.app/en"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/items/gamification-bko-dark.svg"><img src="assets/items/gamification-bko-light.svg" width="200" alt="Gamification Back Office"></picture></a>
+  <a href="https://gmolari.vercel.app/en"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/items/game-lab-dark.svg"><img src="assets/items/game-lab-light.svg" width="200" alt="Ad Monetization Engine"></picture></a>
+<br>
+  <a href="https://gmolari.vercel.app/en"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/items/pgx-ui-dark.svg"><img src="assets/items/pgx-ui-light.svg" width="200" alt="PGX UI"></picture></a>
+  <a href="https://gmolari.vercel.app/en"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/items/supernova-bet-dark.svg"><img src="assets/items/supernova-bet-light.svg" width="200" alt="Supernova Bet"></picture></a>
+  <a href="https://gmolari.vercel.app/en"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/items/sweepstakes-dark.svg"><img src="assets/items/sweepstakes-light.svg" width="200" alt="Sweepstakes"></picture></a>
+<br>
+  <a href="https://github.com/gmolari/vortexvolley"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/items/vortexvolley-dark.svg"><img src="assets/items/vortexvolley-light.svg" width="200" alt="VortexVolley"></picture></a>
+  <a href="https://github.com/gmolari/lp-bigette-fotos-e-videos"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/items/bigette-dark.svg"><img src="assets/items/bigette-light.svg" width="200" alt="Bigette Fotos e Vídeos"></picture></a>
+  <a href="https://gmolari.vercel.app/en"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/items/citybuilder-dark.svg"><img src="assets/items/citybuilder-light.svg" width="200" alt="CityBuilder"></picture></a>
 </p>
 <p align="center"><sub>Open the inventory at <a href="https://gmolari.vercel.app">gmolari.vercel.app</a> · source in <a href="https://github.com/gmolari/gmolari-portfolio">gmolari-portfolio</a></sub></p>
 
