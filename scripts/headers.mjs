@@ -19,7 +19,6 @@ const HEADERS = [
   ["skills", "bolt", "SKILL TREE"],
   ["quests", "scroll", "QUEST LOG · WORK EXPERIENCE"],
   ["inventory", "bag", "INVENTORY · PROJECTS"],
-  ["stats", "star", "PLAYER STATS"],
   ["party", "mail", "JOIN THE PARTY"],
 ];
 

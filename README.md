@@ -127,11 +127,6 @@ I build products end to end: web apps, APIs, back offices and mobile apps, from 
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/headers/stats-dark.svg">
-  <img alt="Player stats" src="assets/headers/stats-light.svg" width="100%">
-</picture>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gmolari/gmolari/output/stats-dark.svg">
   <img alt="GitHub stats: contributions, repositories, stars, followers and top languages" src="https://raw.githubusercontent.com/gmolari/gmolari/output/stats-light.svg" width="100%">
 </picture>
